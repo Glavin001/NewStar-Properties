@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A773C926-2F26-40A1-8382-2A2A80BAF3C7">
+  <lastEdited clientType="local-build-20110411" date="2011-04-11 22:28:42 -0300"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Available - &lt;/b&gt; NEW turn-key offices for lease on Sackville Drive.&#xD;Approximately 500 sq ft of office and storage space, shared kitchenette and washroom, ample parking and&#xA0;traffic lights for easy&#xA0;access. Includes Heat/Air conditioning, lights and parking, &#xD;&#xD;&lt;b&gt;For more information Call Norman At (902) 488-3600 HRM&#xD;&lt;/b&gt;&#xA0;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="perma://BLPageReference/FC6AE136-3F60-4564-BD01-F58518295CEF"&gt;546 Sackville Dr, Suite 900&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;i&gt;Date Posted: Saturday, June 20, 2009&lt;/i&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Sackville_Business_Centre_files/shapeimage_2.png" left="0px" top="0px" width="250px" height="188px"/>
+</content>

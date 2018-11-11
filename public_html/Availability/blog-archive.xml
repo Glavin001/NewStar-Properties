@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Availability</title>
+    <link>http://www.newstarproperties.ca/Availability</link>
+    <description>Please call (902) 488-3600 or email manager@newstarproperties.ca to inquire about the current availabilities for the following buildings.
+
+
+
+NewStar Properties
+
+&#x201C;Queen &amp; Dundas Suites&#x201D;
+34 Dundas &amp; 58 Queen
+
+
+&#x201C;Rocky Lake Apartments&#x201D;
+408 Rocky Lake
+
+
+&#x201C;SunRidge Place&#x201D;
+1367 Cole Harbour Road
+
+&#x201C;Sackville Business Centre&#x201D;
+546 Sackville Drive</description>
+    <item>
+      <title>546 Sackville Dr, Suite 600</title>
+      <link>http://www.newstarproperties.ca/Availability/Entries/2012/12/26_546_Sackville_Dr,_Suite_600.html</link>
+      <guid isPermaLink="false">31b85b42-7c20-4a94-af97-fa253e42357c</guid>
+      <pubDate>Wed, 26 Dec 2012 18:50:07 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.newstarproperties.ca/Availability/Entries/2012/12/26_546_Sackville_Dr,_Suite_600.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.newstarproperties.ca/Availability</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

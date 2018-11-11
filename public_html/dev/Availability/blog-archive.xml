@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Availability</title>
+    <link>http://www.newstarproperties.ca/Availability</link>
+    <description>This is a list of our current available residential apartments or commercial rental units.
+
+
+
+NewStar Properties
+
+&#x201C;Queen &amp; Dundas Suites&#x201D;
+34 Dundas &amp; 58 Queen
+
+
+&#x201C;Rocky Lake Apartments&#x201D;
+408 Rocky Lake
+
+
+&#x201C;SunRidge Place&#x201D;
+1367 Cole Harbour Road
+
+&#x201C;Sackville Business Centre&#x201D;
+546 Sackville Drive</description>
+    <item>
+      <title>68 Queen Street, Suite 100</title>
+      <link>http://www.newstarproperties.ca/Availability/Entries/2009/6/20_68_Queen_Street,_Suite_100.html</link>
+      <guid isPermaLink="false">94f1a5ab-a28d-41c5-b1c5-d9ac6b7f9598</guid>
+      <pubDate>Sat, 20 Jun 2009 20:20:04 -0300</pubDate>
+      <iweb:comment link="http://www.newstarproperties.ca/Availability/Entries/2009/6/20_68_Queen_Street,_Suite_100.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>546 Sackville Drive, Suite 900</title>
+      <link>http://www.newstarproperties.ca/Availability/Entries/2009/6/20_Sackville_Business_Centre.html</link>
+      <guid isPermaLink="false">31b85b42-7c20-4a94-af97-fa253e42357c</guid>
+      <pubDate>Sat, 20 Jun 2009 18:50:07 -0300</pubDate>
+      <iweb:comment link="http://www.newstarproperties.ca/Availability/Entries/2009/6/20_Sackville_Business_Centre.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.newstarproperties.ca/Availability</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
